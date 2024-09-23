@@ -85,9 +85,9 @@ void main_() {
 
 #ifndef ONLINE_JUDGE
 	// for getting input from input.txt
-	freopen("inputA.txt", "r", stdin);
+	freopen("input.txt", "r", stdin);
 	// for writing output to output.txt
-	freopen("outputA.txt", "w", stdout);
+	freopen("output.txt", "w", stdout);
 #endif
 	fast;
 	// fac[0] = 1;
